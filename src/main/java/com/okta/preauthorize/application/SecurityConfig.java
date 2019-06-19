@@ -1,4 +1,4 @@
-package com.okta.preauthorize.Application;
+package com.okta.preauthorize.application;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;

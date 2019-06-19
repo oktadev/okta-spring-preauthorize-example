@@ -1,4 +1,4 @@
-package com.okta.preauthorize.Application;
+package com.okta.preauthorize.application;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

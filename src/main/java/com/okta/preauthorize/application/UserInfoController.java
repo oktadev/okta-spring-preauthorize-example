@@ -1,4 +1,4 @@
-package com.okta.preauthorize.Application;
+package com.okta.preauthorize.application;
 
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.oauth2.client.OAuth2AuthorizedClient;

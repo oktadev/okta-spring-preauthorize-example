@@ -1,4 +1,4 @@
-package com.okta.preauthorize.Application;
+package com.okta.preauthorize.application;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Controller;

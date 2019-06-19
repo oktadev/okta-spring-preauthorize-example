@@ -1,4 +1,4 @@
-package com.okta.preauthorize.Application;
+package com.okta.preauthorize.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
