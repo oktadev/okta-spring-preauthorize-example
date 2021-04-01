@@ -1,5 +1,6 @@
+#Wed Mar 31 14:24:32 MDT 2021
 okta:
-  oauth2:  
-    issuer: https://{yourOktaDomain}/oauth2/default  
+  oauth2:
+    issuer: https://{yourOktaDomain}/oauth2/default
     client-id: {yourClientId}
     client-secret: {yourClientSecret}
